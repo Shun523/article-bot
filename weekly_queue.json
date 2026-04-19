@@ -1,1 +1,92 @@
-{}
+{
+  "week": "2026-W15",
+  "articles": [
+    {
+      "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
+      "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
+      "stocks": 136,
+      "tags": [
+        "GitHub",
+        "AWS",
+        "Security",
+        "セキュリティ対策",
+        "ClaudeCode"
+      ],
+      "posted": true
+    },
+    {
+      "title": "AIに「良い設計」をさせるためのプロンプト設計パターン集",
+      "url": "https://qiita.com/kamome_susume/items/4f25850a2ae0095d1edc",
+      "stocks": 43,
+      "tags": [
+        "AI",
+        "プロンプト",
+        "プロンプトエンジニアリング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
+      "url": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
+      "stocks": 711,
+      "tags": [
+        "Security",
+        "ポエム",
+        "AI",
+        "新人プログラマ応援",
+        "VibeCoding"
+      ],
+      "posted": false
+    },
+    {
+      "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術",
+      "url": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671",
+      "stocks": 331,
+      "tags": [
+        "Qiita",
+        "Markdown",
+        "ドキュメント",
+        "新人プログラマ応援",
+        "mermaid"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+      "url": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
+      "stocks": 40,
+      "tags": [
+        "設計",
+        "レビュー",
+        "開発プロセス",
+        "AI",
+        "生成AI"
+      ],
+      "posted": false
+    },
+    {
+      "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
+      "url": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35",
+      "stocks": 127,
+      "tags": [
+        "AI",
+        "生成AI",
+        "プロンプトエンジニアリング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
+      "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d",
+      "stocks": 39,
+      "tags": [
+        "PHP",
+        "JavaScript",
+        "Security",
+        "Web",
+        "徳丸本"
+      ],
+      "posted": false
+    }
+  ]
+}
