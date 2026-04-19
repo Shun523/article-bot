@@ -119,7 +119,6 @@ def post_to_slack(article: dict, webhook_url: str, position: int, total: int) ->
     text = (
         f"*📰 先週（{start} 〜 {end}）の人気記事*\n"
         f"<{article['url']}|{article['title']}>\n"
-        f"🔖 ストック {article['stocks']}"
     )
     if tags:
         text += f"   {tags}"
