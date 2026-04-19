@@ -2,7 +2,7 @@ name: Daily Qiita Article Post
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 毎日 9:00 JST (= 0:00 UTC)
+    - cron: '0 22 * * *'  # 毎日 7:00 JST (= 22:00 UTC 前日)
   workflow_dispatch:       # 手動実行も可能
 
 jobs:
