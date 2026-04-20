@@ -1,90 +1,91 @@
 {
-  "week": "2026-W15",
+  "week": "2026-W16",
   "articles": [
     {
-      "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
-      "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
-      "stocks": 136,
+      "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
+      "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14",
+      "stocks": 18,
       "tags": [
-        "GitHub",
+        "Security",
+        "AI",
+        "個人開発",
+        "ClaudeCode",
+        "CLAUDE_md"
+      ],
+      "posted": true
+    },
+    {
+      "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
+      "url": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
+      "stocks": 26,
+      "tags": [
+        "AI",
+        "AI駆動開発",
+        "AIエージェント",
+        "ハーネスエンジニアリング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
+      "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
+      "stocks": 154,
+      "tags": [
         "AWS",
         "Security",
-        "セキュリティ対策",
+        "Firebase",
+        "Gemini",
+        "GoogleCloud"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
+      "url": "https://qiita.com/softbase/items/fe445a318846fd6a364d",
+      "stocks": 23,
+      "tags": [
+        "Chrome",
+        "DevTools",
+        "MCP"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
+      "url": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447",
+      "stocks": 19,
+      "tags": [
+        "AI",
+        "Gemini",
+        "codex",
+        "開発効率化",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "AIに「良い設計」をさせるためのプロンプト設計パターン集",
-      "url": "https://qiita.com/kamome_susume/items/4f25850a2ae0095d1edc",
-      "stocks": 43,
+      "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
+      "url": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
+      "stocks": 29,
       "tags": [
         "AI",
-        "プロンプト",
-        "プロンプトエンジニアリング"
+        "個人開発",
+        "Obsidian",
+        "Claude",
+        "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
-      "url": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
-      "stocks": 711,
+      "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
+      "url": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
+      "stocks": 123,
       "tags": [
         "Security",
-        "ポエム",
+        "devops",
         "AI",
-        "新人プログラマ応援",
-        "VibeCoding"
-      ],
-      "posted": false
-    },
-    {
-      "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術",
-      "url": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671",
-      "stocks": 331,
-      "tags": [
-        "Qiita",
-        "Markdown",
-        "ドキュメント",
-        "新人プログラマ応援",
-        "mermaid"
-      ],
-      "posted": false
-    },
-    {
-      "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
-      "url": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
-      "stocks": 40,
-      "tags": [
-        "設計",
-        "レビュー",
-        "開発プロセス",
-        "AI",
-        "生成AI"
-      ],
-      "posted": false
-    },
-    {
-      "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
-      "url": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35",
-      "stocks": 127,
-      "tags": [
-        "AI",
-        "生成AI",
-        "プロンプトエンジニアリング"
-      ],
-      "posted": false
-    },
-    {
-      "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
-      "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d",
-      "stocks": 39,
-      "tags": [
-        "PHP",
-        "JavaScript",
-        "Security",
-        "Web",
-        "徳丸本"
+        "GitHubActions",
+        "ClaudeCode"
       ],
       "posted": false
     }
