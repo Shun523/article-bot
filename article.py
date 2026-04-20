@@ -11,7 +11,9 @@ import os
 import random
 import urllib.parse
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
+
+JST = timezone(timedelta(hours=9))
 
 QUEUE_PATH = os.path.join(os.path.dirname(__file__), "weekly_queue.json")
 
@@ -22,7 +24,7 @@ QUEUE_PATH = os.path.join(os.path.dirname(__file__), "weekly_queue.json")
 
 def get_last_week_range() -> tuple[str, str]:
     """先週月曜〜日曜の日付を (YYYY-MM-DD, YYYY-MM-DD) で返す"""
-    today = date.today()
+    today = datetime.now(JST).date()
     last_monday = today - timedelta(days=today.weekday() + 7)
     last_sunday = last_monday + timedelta(days=6)
     return last_monday.isoformat(), last_sunday.isoformat()
