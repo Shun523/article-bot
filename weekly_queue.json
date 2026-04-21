@@ -24,7 +24,7 @@
         "AIエージェント",
         "ハーネスエンジニアリング"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
