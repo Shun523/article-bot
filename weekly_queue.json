@@ -37,7 +37,7 @@
         "Gemini",
         "GoogleCloud"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
