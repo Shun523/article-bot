@@ -1,91 +1,89 @@
 {
-  "week": "2026-W16",
+  "week": "2026-W17",
   "articles": [
     {
-      "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
-      "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14",
-      "stocks": 18,
-      "tags": [
-        "Security",
-        "AI",
-        "個人開発",
-        "ClaudeCode",
-        "CLAUDE_md"
-      ],
-      "posted": true
-    },
-    {
-      "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
-      "url": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
-      "stocks": 26,
-      "tags": [
-        "AI",
-        "AI駆動開発",
-        "AIエージェント",
-        "ハーネスエンジニアリング"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
-      "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
-      "stocks": 154,
-      "tags": [
-        "AWS",
-        "Security",
-        "Firebase",
-        "Gemini",
-        "GoogleCloud"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
-      "url": "https://qiita.com/softbase/items/fe445a318846fd6a364d",
-      "stocks": 23,
-      "tags": [
-        "Chrome",
-        "DevTools",
-        "MCP"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
-      "url": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447",
+      "title": "WSL2からWindowsのブラウザやネイティブアプリをシームレスに起動する(xdg-open / wslu の活用)",
+      "url": "https://qiita.com/mfunaki/items/37dca9fdb5db427dfd7c",
       "stocks": 19,
       "tags": [
-        "AI",
+        "Ubuntu",
+        "開発環境",
+        "WSL2",
+        "wslu",
+        "wslview"
+      ],
+      "posted": true
+    },
+    {
+      "title": "同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発",
+      "url": "https://qiita.com/nogataka/items/1156e2d3a40c4dab3398",
+      "stocks": 10,
+      "tags": [
+        "Git",
+        "tmux",
         "Gemini",
         "codex",
-        "開発効率化",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
-      "url": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
-      "stocks": 29,
+      "title": "Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発",
+      "url": "https://qiita.com/nogataka/items/52dcdb315c54dddede01",
+      "stocks": 11,
       "tags": [
-        "AI",
-        "個人開発",
-        "Obsidian",
-        "Claude",
+        "codereview",
+        "OpenAI",
+        "codex",
+        "AI駆動開発",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
-      "url": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
-      "stocks": 123,
+      "title": "Claude Code は planner、Codex CLI は executor — 両方使って 3 ヶ月、役割分担で見えた実測",
+      "url": "https://qiita.com/nogataka/items/2668b9ca9d12f0bef1e5",
+      "stocks": 9,
       "tags": [
-        "Security",
-        "devops",
-        "AI",
+        "設計",
+        "codex",
         "GitHubActions",
+        "AI駆動開発",
         "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude CodeのVSCode拡張が使いやすいよ",
+      "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04",
+      "stocks": 27,
+      "tags": [
+        "VSCode",
+        "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIがCTOみたいに計画から実装まで進めてくれた話",
+      "url": "https://qiita.com/KNR109/items/17aba9efc0de7ceff040",
+      "stocks": 12,
+      "tags": [
+        "CTO",
+        "生成AI",
+        "AI駆動開発",
+        "AI駆動設計"
+      ],
+      "posted": false
+    },
+    {
+      "title": "知らないとヤバい😱 コードレビューしてもらえる最強ツール! CodeRabbitの導入法",
+      "url": "https://qiita.com/Hashimoto-Noriaki/items/f1eab565027d84bc9b0b",
+      "stocks": 12,
+      "tags": [
+        "コードレビュー",
+        "新人プログラマ応援",
+        "CodeRabbit",
+        "AI駆動開発"
       ],
       "posted": false
     }
