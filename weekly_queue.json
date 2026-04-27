@@ -25,7 +25,7 @@
         "codex",
         "ClaudeCode"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発",
