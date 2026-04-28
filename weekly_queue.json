@@ -38,7 +38,7 @@
         "AI駆動開発",
         "ClaudeCode"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code は planner、Codex CLI は executor — 両方使って 3 ヶ月、役割分担で見えた実測",
