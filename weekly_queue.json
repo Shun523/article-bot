@@ -1,94 +1,92 @@
 {
-  "week": "2026-W18",
+  "week": "2026-W19",
   "articles": [
     {
-      "title": "Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方",
-      "url": "https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c",
-      "stocks": 30,
+      "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
+      "url": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3",
+      "stocks": 18,
       "tags": [
-        "Excel",
-        "API",
-        "設計",
-        "DX"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
-      "stocks": 10,
-      "tags": [
-        "Git",
-        "Security",
-        "脆弱性",
+        "機械学習",
         "AI",
-        "cursor"
+        "Attention",
+        "Transformer",
+        "LLM"
       ],
       "posted": true
     },
     {
-      "title": "【ついに我が家も】Cloudflareでゼロトラスト環境構築01【Zero Trust】",
-      "url": "https://qiita.com/hidekko/items/b987f390dd2130bc4bae",
-      "stocks": 16,
+      "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
+      "url": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708",
+      "stocks": 13,
       "tags": [
-        "Network",
-        "RaspberryPi",
-        "cloudflare",
-        "ゼロトラスト",
-        "zerotrust"
+        "PowerPlatform",
+        "copilot",
+        "CopilotStudio"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて",
-      "url": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af",
-      "stocks": 104,
-      "tags": [
-        "設計",
-        "GithubPages",
-        "個人開発",
-        "新人プログラマ応援",
-        "ClaudeCode"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ",
-      "url": "https://qiita.com/sharu389no/items/ede7d1c0be4a14024857",
+      "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
+      "url": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0",
       "stocks": 11,
       "tags": [
-        "Security",
-        "MCP",
-        "AIエージェント",
+        "Java",
+        "AWS",
+        "migration",
+        "lambda",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "セキュリティを後付けにしないための実践ガイド",
-      "url": "https://qiita.com/ryucciarati/items/b61f080466c760e5ecc2",
-      "stocks": 9,
+      "title": "Git初心者の頃わからなかった「pullするな」の意味",
+      "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406",
+      "stocks": 106,
       "tags": [
-        "Security",
-        "プロセス",
-        "ガイドライン",
-        "原理原則",
-        "実践"
+        "Git",
+        "初心者",
+        "開発ツール",
+        "新人プログラマ応援"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Claude Codeについて思うこと",
-      "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c",
-      "stocks": 20,
+      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c",
+      "stocks": 21,
       "tags": [
-        "書籍",
-        "書籍紹介",
-        "生成AI",
-        "AIエージェント",
+        "Rails",
+        "nginx",
+        "AWS",
+        "puma",
+        "ALB"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
+      "url": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284",
+      "stocks": 12,
+      "tags": [
+        "Unity",
+        "AI",
+        "codex",
+        "AI駆動開発",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
+      "url": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4",
+      "stocks": 33,
+      "tags": [
+        "Python",
+        "機械学習",
+        "金融",
+        "クオンツ"
+      ],
+      "posted": false
     }
   ]
 }
