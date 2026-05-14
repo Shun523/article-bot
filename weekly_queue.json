@@ -61,7 +61,7 @@
         "puma",
         "ALB"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
