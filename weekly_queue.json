@@ -1,92 +1,93 @@
 {
-  "week": "2026-W19",
+  "week": "2026-W20",
   "articles": [
     {
-      "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
-      "url": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3",
-      "stocks": 18,
+      "title": "Claude Codeのskillsアイデア大全20選",
+      "url": "https://qiita.com/kamome_susume/items/d8919d94f55d86e9881c",
+      "stocks": 9,
       "tags": [
-        "機械学習",
         "AI",
-        "Attention",
-        "Transformer",
-        "LLM"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
-      "url": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708",
-      "stocks": 13,
-      "tags": [
-        "PowerPlatform",
-        "copilot",
-        "CopilotStudio"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
-      "url": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0",
-      "stocks": 11,
-      "tags": [
-        "Java",
-        "AWS",
-        "migration",
-        "lambda",
+        "Claude",
+        "AIエージェント",
         "ClaudeCode"
       ],
       "posted": true
     },
     {
-      "title": "Git初心者の頃わからなかった「pullするな」の意味",
-      "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406",
-      "stocks": 106,
+      "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
+      "url": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
+      "stocks": 19,
       "tags": [
-        "Git",
-        "初心者",
-        "開発ツール",
-        "新人プログラマ応援"
+        "Security",
+        "AI",
+        "AI駆動開発",
+        "ClaudeCode",
+        "CLAUDE_md"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
-      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c",
-      "stocks": 21,
-      "tags": [
-        "Rails",
-        "nginx",
-        "AWS",
-        "puma",
-        "ALB"
-      ],
-      "posted": true
-    },
-    {
-      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
-      "url": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284",
+      "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
+      "url": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f",
       "stocks": 12,
       "tags": [
-        "Unity",
-        "AI",
-        "codex",
-        "AI駆動開発",
-        "ClaudeCode"
+        "HTML",
+        "JavaScript",
+        "自己解凍形式"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
-      "url": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4",
-      "stocks": 33,
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
+      "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108",
+      "stocks": 10,
       "tags": [
         "Python",
-        "機械学習",
-        "金融",
-        "クオンツ"
+        "grok",
+        "ChatGPT",
+        "ChatGPTに聞いてみた",
+        "マクロ経済学"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "AI時代に生き残る「最強の武器」",
+      "url": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e",
+      "stocks": 19,
+      "tags": [
+        "初心者",
+        "エンジニア",
+        "未経験エンジニア",
+        "新人プログラマ応援",
+        "初学者"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
+      "url": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
+      "stocks": 70,
+      "tags": [
+        "Security",
+        "OSS",
+        "MCP",
+        "AIエージェント",
+        "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する",
+      "url": "https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9",
+      "stocks": 23,
+      "tags": [
+        "Security",
+        "初心者",
+        "認証",
+        "passkey",
+        "パスキー"
+      ],
+      "posted": false
     }
   ]
 }
