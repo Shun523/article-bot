@@ -24,7 +24,7 @@
         "ClaudeCode",
         "CLAUDE_md"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
