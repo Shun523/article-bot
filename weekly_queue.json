@@ -61,7 +61,7 @@
         "新人プログラマ応援",
         "初学者"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
