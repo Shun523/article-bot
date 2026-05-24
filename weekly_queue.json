@@ -1,46 +1,10 @@
 {
-  "week": "2026-W20",
+  "week": "2026-W21",
   "articles": [
     {
-      "title": "Claude Codeのskillsアイデア大全20選",
-      "url": "https://qiita.com/kamome_susume/items/d8919d94f55d86e9881c",
-      "stocks": 9,
-      "tags": [
-        "AI",
-        "Claude",
-        "AIエージェント",
-        "ClaudeCode"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
-      "url": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
-      "stocks": 19,
-      "tags": [
-        "Security",
-        "AI",
-        "AI駆動開発",
-        "ClaudeCode",
-        "CLAUDE_md"
-      ],
-      "posted": true
-    },
-    {
-      "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
-      "url": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f",
-      "stocks": 12,
-      "tags": [
-        "HTML",
-        "JavaScript",
-        "自己解凍形式"
-      ],
-      "posted": true
-    },
-    {
-      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
-      "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108",
-      "stocks": 10,
+      "title": "人を育てる企業ほど損をする？ ― “囚人のジレンマ”から考える日本経済の構造 : Pythonで学ぶ マクロ経済学入門 (83)",
+      "url": "https://qiita.com/maskot1977/items/f3ea6b4dd29e327c0d43",
+      "stocks": 6,
       "tags": [
         "Python",
         "grok",
@@ -51,43 +15,81 @@
       "posted": true
     },
     {
-      "title": "AI時代に生き残る「最強の武器」",
-      "url": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e",
-      "stocks": 19,
+      "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
+      "url": "https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510",
+      "stocks": 5,
       "tags": [
-        "初心者",
+        "ポエム",
+        "まとめ",
+        "振り返り",
         "エンジニア",
-        "未経験エンジニア",
-        "新人プログラマ応援",
-        "初学者"
+        "アウトプット"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
-      "url": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
-      "stocks": 70,
+      "title": "【kaggle】Claude CodeだけでKaggleコンペに挑んで惨敗した話",
+      "url": "https://qiita.com/ktdatascience/items/cad6d18c080aa6ca812c",
+      "stocks": 5,
       "tags": [
-        "Security",
-        "OSS",
-        "MCP",
-        "AIエージェント",
+        "初心者",
+        "機械学習",
+        "Kaggle",
+        "MLOps",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する",
-      "url": "https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9",
-      "stocks": 23,
+      "title": " 日本株は本当に「モメンタムが効かない市場」なのか",
+      "url": "https://qiita.com/pyon3/items/cfa64a6da695cbfaecf4",
+      "stocks": 9,
+      "tags": [
+        "Python",
+        "データ分析",
+        "Finance",
+        "統計学",
+        "株式投資"
+      ],
+      "posted": false
+    },
+    {
+      "title": "[Frontend Performance - Part 20] フロントエンドパフォーマンス改善 完全ロードマップ総まとめ",
+      "url": "https://qiita.com/tuanphan/items/1feeae0fc6ae30aa709d",
+      "stocks": 7,
+      "tags": [
+        "JavaScript",
+        "TypeScript",
+        "フロントエンド",
+        "performance",
+        "React"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
+      "url": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d",
+      "stocks": 9,
       "tags": [
         "Security",
-        "初心者",
-        "認証",
-        "passkey",
-        "パスキー"
+        "AI",
+        "LLM",
+        "ollama",
+        "AIエージェント"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "【インフラエンジニアのkiro活用】既存環境をドキュメントに書きだす",
+      "url": "https://qiita.com/REALKTMR/items/8147f10e6a1e6d7570d4",
+      "stocks": 9,
+      "tags": [
+        "AWS",
+        "CloudFormation",
+        "IaC",
+        "Kiro"
+      ],
+      "posted": false
     }
   ]
 }
