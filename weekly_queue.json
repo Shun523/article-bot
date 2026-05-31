@@ -1,95 +1,90 @@
 {
-  "week": "2026-W21",
+  "week": "2026-W22",
   "articles": [
     {
-      "title": "人を育てる企業ほど損をする？ ― “囚人のジレンマ”から考える日本経済の構造 : Pythonで学ぶ マクロ経済学入門 (83)",
-      "url": "https://qiita.com/maskot1977/items/f3ea6b4dd29e327c0d43",
-      "stocks": 6,
+      "title": "Claude Codeで使うモデルを変更してみた検証メモ",
+      "url": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18",
+      "stocks": 10,
       "tags": [
-        "Python",
-        "grok",
-        "ChatGPT",
-        "ChatGPTに聞いてみた",
-        "マクロ経済学"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
-      "url": "https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510",
-      "stocks": 5,
-      "tags": [
-        "ポエム",
-        "まとめ",
-        "振り返り",
-        "エンジニア",
-        "アウトプット"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【kaggle】Claude CodeだけでKaggleコンペに挑んで惨敗した話",
-      "url": "https://qiita.com/ktdatascience/items/cad6d18c080aa6ca812c",
-      "stocks": 5,
-      "tags": [
-        "初心者",
-        "機械学習",
-        "Kaggle",
-        "MLOps",
+        "Minimax",
+        "生成AI",
+        "AI駆動開発",
+        "AIエージェント",
         "ClaudeCode"
       ],
       "posted": true
     },
     {
-      "title": " 日本株は本当に「モメンタムが効かない市場」なのか",
-      "url": "https://qiita.com/pyon3/items/cfa64a6da695cbfaecf4",
-      "stocks": 9,
+      "title": "2026年にプログラミングを学ぶべきか",
+      "url": "https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d",
+      "stocks": 8,
       "tags": [
-        "Python",
-        "データ分析",
-        "Finance",
-        "統計学",
-        "株式投資"
-      ],
-      "posted": true
-    },
-    {
-      "title": "[Frontend Performance - Part 20] フロントエンドパフォーマンス改善 完全ロードマップ総まとめ",
-      "url": "https://qiita.com/tuanphan/items/1feeae0fc6ae30aa709d",
-      "stocks": 7,
-      "tags": [
-        "JavaScript",
-        "TypeScript",
-        "フロントエンド",
-        "performance",
-        "React"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
-      "url": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d",
-      "stocks": 9,
-      "tags": [
-        "Security",
+        "coding",
         "AI",
-        "LLM",
-        "ollama",
-        "AIエージェント"
+        "Thinking"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "【インフラエンジニアのkiro活用】既存環境をドキュメントに書きだす",
-      "url": "https://qiita.com/REALKTMR/items/8147f10e6a1e6d7570d4",
-      "stocks": 9,
+      "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
+      "url": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782",
+      "stocks": 14,
       "tags": [
-        "AWS",
-        "CloudFormation",
-        "IaC",
-        "Kiro"
+        "Obsidian",
+        "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド ",
+      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159",
+      "stocks": 24,
+      "tags": [
+        "AtCoder",
+        "初心者",
+        "競プロ",
+        "未経験"
+      ],
+      "posted": false
+    },
+    {
+      "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
+      "url": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7",
+      "stocks": 11,
+      "tags": [
+        "AI",
+        "駆け出しエンジニア",
+        "LLM",
+        "Claude",
+        "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+      "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b",
+      "stocks": 15,
+      "tags": [
+        "Unity",
+        "AI",
+        "codex",
+        "AI駆動開発",
+        "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "これを読めば分かるClaude Code 完全攻略ガイド",
+      "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d",
+      "stocks": 69,
+      "tags": [
+        "Claude",
+        "AI駆動開発",
+        "AIエージェント",
+        "ClaudeCode",
+        "2025JapanAWSJr.Champions"
+      ],
+      "posted": false
     }
   ]
 }
