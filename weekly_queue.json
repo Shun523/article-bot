@@ -1,90 +1,92 @@
 {
-  "week": "2026-W22",
+  "week": "2026-W23",
   "articles": [
     {
-      "title": "Claude Codeで使うモデルを変更してみた検証メモ",
-      "url": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18",
-      "stocks": 10,
+      "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
+      "url": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b",
+      "stocks": 19,
       "tags": [
-        "Minimax",
-        "生成AI",
-        "AI駆動開発",
-        "AIエージェント",
-        "ClaudeCode"
+        "QA",
+        "QAエンジニア",
+        "オフショア開発"
       ],
       "posted": true
     },
     {
-      "title": "2026年にプログラミングを学ぶべきか",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d",
+      "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
+      "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
+      "stocks": 57,
+      "tags": [
+        "初心者",
+        "mermaid",
+        "Gemini",
+        "生成AI",
+        "プロンプトエンジニアリング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "非エンジニアでもAIで小さなシステム修正はできる。Claude Code・Cursor時代の依頼術",
+      "url": "https://qiita.com/yamadagenki/items/bc59607d940a9e87c189",
       "stocks": 8,
       "tags": [
-        "coding",
-        "AI",
-        "Thinking"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
-      "url": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782",
-      "stocks": 14,
-      "tags": [
-        "Obsidian",
+        "ポエム",
+        "cursor",
+        "生成AI",
+        "AI駆動開発",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド ",
-      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159",
+      "title": "ターミナル好きに贈るファイラー「tfx」— macOS と Windows",
+      "url": "https://qiita.com/spumoni/items/9c7277d66e9d0ba8be15",
+      "stocks": 8,
+      "tags": [
+        "Windows",
+        "finder",
+        "macOS",
+        "fileExporter"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール",
+      "url": "https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b",
       "stocks": 24,
       "tags": [
-        "AtCoder",
-        "初心者",
-        "競プロ",
-        "未経験"
-      ],
-      "posted": true
-    },
-    {
-      "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
-      "url": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7",
-      "stocks": 11,
-      "tags": [
         "AI",
-        "駆け出しエンジニア",
-        "LLM",
-        "Claude",
-        "ClaudeCode"
+        "rule",
+        "Thinking",
+        "Agent"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
-      "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b",
-      "stocks": 15,
+      "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
+      "url": "https://qiita.com/long-910/items/76779fc1d8602dab73b3",
+      "stocks": 8,
       "tags": [
-        "Unity",
+        "Security",
+        "脆弱性",
         "AI",
-        "codex",
-        "AI駆動開発",
-        "ClaudeCode"
+        "cve",
+        "http2"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "これを読めば分かるClaude Code 完全攻略ガイド",
-      "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d",
-      "stocks": 69,
+      "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
+      "url": "https://qiita.com/muu3/items/19f39c1f113830e3d902",
+      "stocks": 8,
       "tags": [
-        "Claude",
-        "AI駆動開発",
-        "AIエージェント",
-        "ClaudeCode",
-        "2025JapanAWSJr.Champions"
+        "アジャイル",
+        "ポエム",
+        "AI",
+        "キャリア",
+        "プロダクトマネジメント"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
