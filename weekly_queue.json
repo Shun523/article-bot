@@ -60,7 +60,7 @@
         "Thinking",
         "Agent"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
