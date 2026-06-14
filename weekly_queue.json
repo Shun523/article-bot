@@ -1,92 +1,92 @@
 {
-  "week": "2026-W23",
+  "week": "2026-W24",
   "articles": [
     {
-      "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
-      "url": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b",
-      "stocks": 19,
+      "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
+      "url": "https://qiita.com/grhg/items/eee10528b403baf89631",
+      "stocks": 22,
       "tags": [
-        "QA",
-        "QAエンジニア",
-        "オフショア開発"
+        "Markdown",
+        "GithubPages",
+        "MkDocs",
+        "mermaid",
+        "GitHubActions"
       ],
       "posted": true
     },
     {
-      "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
-      "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
-      "stocks": 57,
+      "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
+      "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
+      "stocks": 26,
+      "tags": [
+        "AWS",
+        "Security",
+        "AI",
+        "初心者エンジニア",
+        "rag"
+      ],
+      "posted": false
+    },
+    {
+      "title": "3年間、AI要件定義に取り組んできた全記録",
+      "url": "https://qiita.com/kumai_yu/items/831717856fd24981799d",
+      "stocks": 22,
+      "tags": [
+        "AI",
+        "要件定義",
+        "AI駆動開発",
+        "Gear.indigo"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました",
+      "url": "https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976",
+      "stocks": 20,
+      "tags": [
+        "AWS",
+        "AI-DLC"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Qiita記事7.7万件をClickHouseに入れてAIエージェントに分析させてみた",
+      "url": "https://qiita.com/ktdatascience/items/eff07c425f5b871e819b",
+      "stocks": 6,
       "tags": [
         "初心者",
-        "mermaid",
-        "Gemini",
-        "生成AI",
-        "プロンプトエンジニアリング"
+        "QiitaAPI",
+        "データ分析",
+        "ClickHouse",
+        "生成AI"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "非エンジニアでもAIで小さなシステム修正はできる。Claude Code・Cursor時代の依頼術",
-      "url": "https://qiita.com/yamadagenki/items/bc59607d940a9e87c189",
-      "stocks": 8,
+      "title": "【まとめ】「良い命名」できていますか？ ― ITの名前の由来をAからZまでアルファベット順に集めてみたから、インスピレーションしてください。",
+      "url": "https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146",
+      "stocks": 12,
       "tags": [
+        "初心者",
         "ポエム",
-        "cursor",
+        "まとめ",
+        "命名規則",
+        "雑学"
+      ],
+      "posted": false
+    },
+    {
+      "title": "コーディングエージェント、続けて話すか? 立て直すか?",
+      "url": "https://qiita.com/hokutoh/items/5d05145f8c0bf351a457",
+      "stocks": 9,
+      "tags": [
+        "初心者",
         "生成AI",
         "AI駆動開発",
-        "ClaudeCode"
+        "AIエージェント",
+        "コーディングエージェント"
       ],
-      "posted": true
-    },
-    {
-      "title": "ターミナル好きに贈るファイラー「tfx」— macOS と Windows",
-      "url": "https://qiita.com/spumoni/items/9c7277d66e9d0ba8be15",
-      "stocks": 8,
-      "tags": [
-        "Windows",
-        "finder",
-        "macOS",
-        "fileExporter"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b",
-      "stocks": 24,
-      "tags": [
-        "AI",
-        "rule",
-        "Thinking",
-        "Agent"
-      ],
-      "posted": true
-    },
-    {
-      "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
-      "url": "https://qiita.com/long-910/items/76779fc1d8602dab73b3",
-      "stocks": 8,
-      "tags": [
-        "Security",
-        "脆弱性",
-        "AI",
-        "cve",
-        "http2"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
-      "url": "https://qiita.com/muu3/items/19f39c1f113830e3d902",
-      "stocks": 8,
-      "tags": [
-        "アジャイル",
-        "ポエム",
-        "AI",
-        "キャリア",
-        "プロダクトマネジメント"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
