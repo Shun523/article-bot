@@ -47,7 +47,7 @@
         "AWS",
         "AI-DLC"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Qiita記事7.7万件をClickHouseに入れてAIエージェントに分析させてみた",
