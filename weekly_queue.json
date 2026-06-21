@@ -1,92 +1,92 @@
 {
-  "week": "2026-W24",
+  "week": "2026-W25",
   "articles": [
     {
-      "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
-      "url": "https://qiita.com/grhg/items/eee10528b403baf89631",
-      "stocks": 22,
+      "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
+      "url": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226",
+      "stocks": 13,
       "tags": [
-        "Markdown",
-        "GithubPages",
-        "MkDocs",
+        "macOS",
+        "AI",
+        "LLM",
+        "LocalAI",
+        "ollama"
+      ],
+      "posted": true
+    },
+    {
+      "title": "【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】",
+      "url": "https://qiita.com/ktdatascience/items/735ebfa8504fc658c812",
+      "stocks": 24,
+      "tags": [
+        "初心者",
         "mermaid",
-        "GitHubActions"
+        "drawio",
+        "生成AI",
+        "Claude"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
-      "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
-      "stocks": 26,
-      "tags": [
-        "AWS",
-        "Security",
-        "AI",
-        "初心者エンジニア",
-        "rag"
-      ],
-      "posted": true
-    },
-    {
-      "title": "3年間、AI要件定義に取り組んできた全記録",
-      "url": "https://qiita.com/kumai_yu/items/831717856fd24981799d",
-      "stocks": 22,
+      "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
+      "url": "https://qiita.com/engchina/items/3060140b10a9a35021f4",
+      "stocks": 14,
       "tags": [
         "AI",
-        "要件定義",
-        "AI駆動開発",
-        "Gear.indigo"
+        "Agent",
+        "rag",
+        "生成AI",
+        "Dify"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました",
-      "url": "https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976",
-      "stocks": 20,
+      "title": "商業書籍の出版をCodexで爆速化するノウハウ",
+      "url": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
+      "stocks": 11,
       "tags": [
-        "AWS",
-        "AI-DLC"
+        "AI",
+        "codex",
+        "AIエージェント",
+        "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Qiita記事7.7万件をClickHouseに入れてAIエージェントに分析させてみた",
-      "url": "https://qiita.com/ktdatascience/items/eff07c425f5b871e819b",
-      "stocks": 6,
+      "title": "Claude Codeで チーム開発ルール を「覚えるもの」から「自動で守るもの」に変える",
+      "url": "https://qiita.com/rairaii/items/a1b622ff1faf4ca34231",
+      "stocks": 14,
       "tags": [
-        "初心者",
-        "QiitaAPI",
-        "データ分析",
-        "ClickHouse",
-        "生成AI"
+        "チーム開発",
+        "開発プロセス",
+        "プロセス改善",
+        "生成AI",
+        "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "【まとめ】「良い命名」できていますか？ ― ITの名前の由来をAからZまでアルファベット順に集めてみたから、インスピレーションしてください。",
-      "url": "https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146",
-      "stocks": 12,
+      "title": "入門から実践 -「🔁 ループエンジニアリング」",
+      "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
+      "stocks": 44,
       "tags": [
-        "初心者",
-        "ポエム",
-        "まとめ",
-        "命名規則",
-        "雑学"
+        "Agent",
+        "Claude",
+        "ClaudeCode",
+        "Mastra",
+        "AgentCore"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "コーディングエージェント、続けて話すか? 立て直すか?",
-      "url": "https://qiita.com/hokutoh/items/5d05145f8c0bf351a457",
+      "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで",
+      "url": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa",
       "stocks": 9,
       "tags": [
-        "初心者",
-        "生成AI",
-        "AI駆動開発",
         "AIエージェント",
-        "コーディングエージェント"
+        "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
