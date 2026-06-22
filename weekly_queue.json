@@ -25,7 +25,7 @@
         "生成AI",
         "Claude"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
