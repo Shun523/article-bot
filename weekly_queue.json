@@ -1,92 +1,89 @@
 {
-  "week": "2026-W25",
+  "week": "2026-W26",
   "articles": [
     {
-      "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
-      "url": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226",
-      "stocks": 13,
+      "title": "Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する",
+      "url": "https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191",
+      "stocks": 4,
       "tags": [
-        "macOS",
-        "AI",
-        "LLM",
-        "LocalAI",
-        "ollama"
+        "ClaudeCode"
       ],
       "posted": true
     },
     {
-      "title": "【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】",
-      "url": "https://qiita.com/ktdatascience/items/735ebfa8504fc658c812",
-      "stocks": 24,
+      "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
+      "url": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7",
+      "stocks": 17,
       "tags": [
+        "AWS",
+        "JAWS-UG",
+        "AWSSummit2026"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Rustによる開発で使うツールまとめ",
+      "url": "https://qiita.com/hyperfinitism/items/54d9dc3b81e2d59982bb",
+      "stocks": 4,
+      "tags": [
+        "Rust",
+        "テスト",
+        "ライセンス",
+        "ドキュメンテーション",
+        "CICD"
+      ],
+      "posted": false
+    },
+    {
+      "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",
+      "url": "https://qiita.com/maskot1977/items/e33c1b7235cedce57675",
+      "stocks": 5,
+      "tags": [
+        "Python",
+        "grok",
+        "Gemini",
+        "ChatGPT",
+        "マクロ経済学"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【初心者向け】Cookie、キャッシュ、ローカルストレージの違いって何？〜Webの記憶術を「カフェの常連客」に例えてみた〜",
+      "url": "https://qiita.com/chuandujiusi/items/4eeab69e719a94e594e7",
+      "stocks": 4,
+      "tags": [
+        "Web",
         "初心者",
-        "mermaid",
-        "drawio",
-        "生成AI",
-        "Claude"
+        "cookie",
+        "ポエム",
+        "フロントエンド"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
-      "url": "https://qiita.com/engchina/items/3060140b10a9a35021f4",
-      "stocks": 14,
+      "title": "AIモデルを軽量化する技術 ー 量子化（Quantization）とは？仕組みから試し方までを非エンジニア向けに解説",
+      "url": "https://qiita.com/nogataka/items/5f93e41741216b829102",
+      "stocks": 6,
       "tags": [
+        "機械学習",
         "AI",
-        "Agent",
-        "rag",
+        "量子化",
         "生成AI",
-        "Dify"
+        "LLM"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "商業書籍の出版をCodexで爆速化するノウハウ",
-      "url": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
-      "stocks": 11,
+      "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
+      "url": "https://qiita.com/tomoki-miso/items/771ebac60ff6fa8594b2",
+      "stocks": 5,
       "tags": [
-        "AI",
-        "codex",
-        "AIエージェント",
-        "ClaudeCode"
+        "Web",
+        "初心者",
+        "ポエム",
+        "フロントエンド"
       ],
-      "posted": true
-    },
-    {
-      "title": "Claude Codeで チーム開発ルール を「覚えるもの」から「自動で守るもの」に変える",
-      "url": "https://qiita.com/rairaii/items/a1b622ff1faf4ca34231",
-      "stocks": 14,
-      "tags": [
-        "チーム開発",
-        "開発プロセス",
-        "プロセス改善",
-        "生成AI",
-        "ClaudeCode"
-      ],
-      "posted": true
-    },
-    {
-      "title": "入門から実践 -「🔁 ループエンジニアリング」",
-      "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
-      "stocks": 44,
-      "tags": [
-        "Agent",
-        "Claude",
-        "ClaudeCode",
-        "Mastra",
-        "AgentCore"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで",
-      "url": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa",
-      "stocks": 9,
-      "tags": [
-        "AIエージェント",
-        "ClaudeCode"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
