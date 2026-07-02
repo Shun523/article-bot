@@ -58,7 +58,7 @@
         "ポエム",
         "フロントエンド"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "AIモデルを軽量化する技術 ー 量子化（Quantization）とは？仕組みから試し方までを非エンジニア向けに解説",
