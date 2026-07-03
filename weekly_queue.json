@@ -71,7 +71,7 @@
         "生成AI",
         "LLM"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
