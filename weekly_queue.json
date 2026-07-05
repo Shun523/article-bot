@@ -1,89 +1,91 @@
 {
-  "week": "2026-W26",
+  "week": "2026-W27",
   "articles": [
     {
-      "title": "Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する",
-      "url": "https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191",
-      "stocks": 4,
+      "title": "量子コンピュータを完全に理解したい人のためのロードマップ",
+      "url": "https://qiita.com/optimisuke/items/a2463fab85ee9778847c",
+      "stocks": 14,
+      "tags": [
+        "量子コンピュータ",
+        "QISKIT",
+        "量子計算",
+        "技術戦略",
+        "ポスト量子暗号"
+      ],
+      "posted": true
+    },
+    {
+      "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+      "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+      "stocks": 43,
+      "tags": [
+        "AWS",
+        "AI",
+        "個人開発",
+        "AI駆動開発",
+        "バイブコーディング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
+      "url": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da",
+      "stocks": 8,
+      "tags": [
+        "機械学習",
+        "Kaggle",
+        "codex",
+        "AIエージェント",
+        "ClaudeCode"
+      ],
+      "posted": false
+    },
+    {
+      "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
+      "url": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b",
+      "stocks": 13,
+      "tags": [
+        "UX",
+        "UI",
+        "雑記",
+        "ポエム",
+        "プロダクトマネジメント"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
+      "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702",
+      "stocks": 7,
+      "tags": [
+        "AWS",
+        "iOS",
+        "AI",
+        "個人開発",
+        "AgentCore"
+      ],
+      "posted": false
+    },
+    {
+      "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる",
+      "url": "https://qiita.com/maaaashi/items/6eefccb7361f64607865",
+      "stocks": 37,
+      "tags": [
+        "HTTP",
+        "TypeScript",
+        "Bun",
+        "Hono"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利",
+      "url": "https://qiita.com/QUANON/items/db3defd280f765c135ec",
+      "stocks": 11,
       "tags": [
         "ClaudeCode"
       ],
-      "posted": true
-    },
-    {
-      "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
-      "url": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7",
-      "stocks": 17,
-      "tags": [
-        "AWS",
-        "JAWS-UG",
-        "AWSSummit2026"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Rustによる開発で使うツールまとめ",
-      "url": "https://qiita.com/hyperfinitism/items/54d9dc3b81e2d59982bb",
-      "stocks": 4,
-      "tags": [
-        "Rust",
-        "テスト",
-        "ライセンス",
-        "ドキュメンテーション",
-        "CICD"
-      ],
-      "posted": true
-    },
-    {
-      "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",
-      "url": "https://qiita.com/maskot1977/items/e33c1b7235cedce57675",
-      "stocks": 5,
-      "tags": [
-        "Python",
-        "grok",
-        "Gemini",
-        "ChatGPT",
-        "マクロ経済学"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【初心者向け】Cookie、キャッシュ、ローカルストレージの違いって何？〜Webの記憶術を「カフェの常連客」に例えてみた〜",
-      "url": "https://qiita.com/chuandujiusi/items/4eeab69e719a94e594e7",
-      "stocks": 4,
-      "tags": [
-        "Web",
-        "初心者",
-        "cookie",
-        "ポエム",
-        "フロントエンド"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIモデルを軽量化する技術 ー 量子化（Quantization）とは？仕組みから試し方までを非エンジニア向けに解説",
-      "url": "https://qiita.com/nogataka/items/5f93e41741216b829102",
-      "stocks": 6,
-      "tags": [
-        "機械学習",
-        "AI",
-        "量子化",
-        "生成AI",
-        "LLM"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
-      "url": "https://qiita.com/tomoki-miso/items/771ebac60ff6fa8594b2",
-      "stocks": 5,
-      "tags": [
-        "Web",
-        "初心者",
-        "ポエム",
-        "フロントエンド"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
