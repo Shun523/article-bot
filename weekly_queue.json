@@ -51,7 +51,7 @@
         "ポエム",
         "プロダクトマネジメント"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
