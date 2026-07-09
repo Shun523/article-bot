@@ -64,7 +64,7 @@
         "個人開発",
         "AgentCore"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる",
