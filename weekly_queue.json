@@ -1,91 +1,89 @@
 {
-  "week": "2026-W27",
+  "week": "2026-W28",
   "articles": [
     {
-      "title": "量子コンピュータを完全に理解したい人のためのロードマップ",
-      "url": "https://qiita.com/optimisuke/items/a2463fab85ee9778847c",
-      "stocks": 14,
-      "tags": [
-        "量子コンピュータ",
-        "QISKIT",
-        "量子計算",
-        "技術戦略",
-        "ポスト量子暗号"
-      ],
-      "posted": true
-    },
-    {
-      "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-      "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-      "stocks": 43,
-      "tags": [
-        "AWS",
-        "AI",
-        "個人開発",
-        "AI駆動開発",
-        "バイブコーディング"
-      ],
-      "posted": true
-    },
-    {
-      "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
-      "url": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da",
+      "title": "0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent）",
+      "url": "https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db",
       "stocks": 8,
       "tags": [
-        "機械学習",
-        "Kaggle",
-        "codex",
-        "AIエージェント",
-        "ClaudeCode"
+        "LLM",
+        "LMStudio",
+        "ローカルLLM",
+        "ローカルAI",
+        "HermesAgent"
       ],
       "posted": true
     },
     {
-      "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
-      "url": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b",
-      "stocks": 13,
-      "tags": [
-        "UX",
-        "UI",
-        "雑記",
-        "ポエム",
-        "プロダクトマネジメント"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
-      "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702",
-      "stocks": 7,
-      "tags": [
-        "AWS",
-        "iOS",
-        "AI",
-        "個人開発",
-        "AgentCore"
-      ],
-      "posted": true
-    },
-    {
-      "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる",
-      "url": "https://qiita.com/maaaashi/items/6eefccb7361f64607865",
-      "stocks": 37,
-      "tags": [
-        "HTTP",
-        "TypeScript",
-        "Bun",
-        "Hono"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利",
-      "url": "https://qiita.com/QUANON/items/db3defd280f765c135ec",
+      "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
+      "url": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc",
       "stocks": 11,
       "tags": [
+        "Security",
+        "フロントエンド",
+        "React",
+        "Next.js"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Miseのdotfiles機能、ご存知でしょうか？",
+      "url": "https://qiita.com/umekikazuya/items/ec67802c538afdf924aa",
+      "stocks": 10,
+      "tags": [
+        "dotfiles",
+        "mise"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
+      "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
+      "stocks": 16,
+      "tags": [
+        "AI",
+        "新卒エンジニア",
+        "Claude",
+        "AI活用",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "LM StudioでローカルLLM環境を構築してみた",
+      "url": "https://qiita.com/Hinata-H/items/00542a07b227f79635f5",
+      "stocks": 8,
+      "tags": [
+        "macOS",
+        "AI",
+        "LLM",
+        "LocalAI",
+        "LMStudio"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ollama-pythonで文章校正",
+      "url": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683",
+      "stocks": 9,
+      "tags": [
+        "Python",
+        "校正",
+        "ollama"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AWS MCP Serverが普通に使えるようになったよ！",
+      "url": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d",
+      "stocks": 16,
+      "tags": [
+        "AWS",
+        "MCP",
+        "Claude",
+        "awsmcp"
+      ],
+      "posted": false
     }
   ]
 }
