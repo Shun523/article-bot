@@ -47,7 +47,7 @@
         "AI活用",
         "ClaudeCode"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "LM StudioでローカルLLM環境を構築してみた",
