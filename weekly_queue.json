@@ -60,7 +60,7 @@
         "LocalAI",
         "LMStudio"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "ollama-pythonで文章校正",
