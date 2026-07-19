@@ -1,89 +1,94 @@
 {
-  "week": "2026-W28",
+  "week": "2026-W29",
   "articles": [
     {
-      "title": "0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent）",
-      "url": "https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db",
-      "stocks": 8,
-      "tags": [
-        "LLM",
-        "LMStudio",
-        "ローカルLLM",
-        "ローカルAI",
-        "HermesAgent"
-      ],
-      "posted": true
-    },
-    {
-      "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
-      "url": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc",
-      "stocks": 11,
-      "tags": [
-        "Security",
-        "フロントエンド",
-        "React",
-        "Next.js"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Miseのdotfiles機能、ご存知でしょうか？",
-      "url": "https://qiita.com/umekikazuya/items/ec67802c538afdf924aa",
+      "title": "VSCodeの拡張機能メモ(2026年版)",
+      "url": "https://qiita.com/nacanaca/items/2038140a154f003245e4",
       "stocks": 10,
       "tags": [
-        "dotfiles",
-        "mise"
+        "VSCode",
+        "初心者",
+        "Docker",
+        "開発環境構築",
+        "Python"
       ],
       "posted": true
     },
     {
-      "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
-      "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
-      "stocks": 16,
+      "title": "AIエージェントのためのDocker Sandboxes実践入門",
+      "url": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
+      "stocks": 17,
       "tags": [
+        "Security",
+        "Docker",
+        "MicroVM"
+      ],
+      "posted": false
+    },
+    {
+      "title": "セキュリティの勉強になるサイト138選(2026年版)",
+      "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
+      "stocks": 44,
+      "tags": [
+        "Security",
+        "owasp",
+        "脆弱性",
+        "CTF",
+        "まとめ"
+      ],
+      "posted": false
+    },
+    {
+      "title": "バイブコーディング(笑) と言われないための考え方",
+      "url": "https://qiita.com/fallout/items/d732b94ff0f68c5cd1ab",
+      "stocks": 12,
+      "tags": [
+        "バイブコーディング",
+        "LLM",
+        "生成AI",
+        "マネジメント",
+        "ポエム"
+      ],
+      "posted": false
+    },
+    {
+      "title": "新人がすぐにできるセキュリティ対策、損害賠償になったら怖いね",
+      "url": "https://qiita.com/prumnn/items/6d7dc1bed369c567df22",
+      "stocks": 10,
+      "tags": [
+        "未経験エンジニア",
+        "初心者",
+        "新人プログラマ応援",
+        "セキュリティ対策",
+        "AI"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
+      "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
+      "stocks": 17,
+      "tags": [
+        "機械学習",
+        "機械学習入門",
+        "初心者",
         "AI",
-        "新卒エンジニア",
-        "Claude",
-        "AI活用",
+        "AIエージェント"
+      ],
+      "posted": false
+    },
+    {
+      "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと",
+      "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9",
+      "stocks": 48,
+      "tags": [
+        "codex",
+        "ChatGPT",
+        "AIエージェント",
+        "マルチエージェント",
         "ClaudeCode"
       ],
-      "posted": true
-    },
-    {
-      "title": "LM StudioでローカルLLM環境を構築してみた",
-      "url": "https://qiita.com/Hinata-H/items/00542a07b227f79635f5",
-      "stocks": 8,
-      "tags": [
-        "macOS",
-        "AI",
-        "LLM",
-        "LocalAI",
-        "LMStudio"
-      ],
-      "posted": true
-    },
-    {
-      "title": "ollama-pythonで文章校正",
-      "url": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683",
-      "stocks": 9,
-      "tags": [
-        "Python",
-        "校正",
-        "ollama"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AWS MCP Serverが普通に使えるようになったよ！",
-      "url": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d",
-      "stocks": 16,
-      "tags": [
-        "AWS",
-        "MCP",
-        "Claude",
-        "awsmcp"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
