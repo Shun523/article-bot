@@ -1,93 +1,85 @@
 {
-  "week": "2026-W30",
+  "week": "2026-W31",
   "articles": [
     {
-      "title": " AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
-      "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154",
-      "stocks": 16,
+      "title": "Claude Codeを使った設計・仕様検討の壁打ちで意識していること",
+      "url": "https://qiita.com/mc_torigoshi/items/85846a527098bf46b7cb",
+      "stocks": 6,
       "tags": [
-        "未経験エンジニア",
-        "新人プログラマ応援",
-        "初心者",
-        "コミュニケーション",
-        "キャリア"
+        "ClaudeCode"
       ],
       "posted": true
     },
     {
-      "title": "ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～",
-      "url": "https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612",
-      "stocks": 14,
+      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
+      "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
+      "stocks": 12,
       "tags": [
-        "生成AI",
-        "マネジメント",
-        "プレゼンテーション",
-        "AI",
-        "AI活用"
+        "Claude",
+        "codex"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "なぜ私はPyCharmを使い続けるのか",
-      "url": "https://qiita.com/harupython/items/6022101976268fa573c8",
-      "stocks": 9,
+      "title": "個人開発でいちばん多い脆弱性「認可漏れ」を、コード付きで理解する",
+      "url": "https://qiita.com/sekyu-dev/items/9b060eeab552554aa301",
+      "stocks": 7,
       "tags": [
-        "Pycharm",
-        "JetBrains",
-        "Python",
-        "IDE",
-        "ポエム"
-      ],
-      "posted": true
-    },
-    {
-      "title": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと",
-      "url": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d",
-      "stocks": 17,
-      "tags": [
-        "AppStore",
-        "Firebase",
-        "iOS",
-        "minecraft",
-        "個人開発"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
-      "url": "https://qiita.com/watany/items/11358e8e8966d5e48a09",
-      "stocks": 13,
-      "tags": [
-        "AI",
-        "生成AI",
-        "LLM",
-        "ClaudeCode",
-        "執筆"
-      ],
-      "posted": true
-    },
-    {
-      "title": "開発効率が上がったCLIツール・コマンド10選",
-      "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
-      "stocks": 28,
-      "tags": [
-        "Qiita",
-        "プログラミング"
-      ],
-      "posted": true
-    },
-    {
-      "title": "非エンジニアが気楽に始める仕様駆動開発",
-      "url": "https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6",
-      "stocks": 11,
-      "tags": [
-        "仕様駆動開発",
-        "ClaudeCode",
-        "非エンジニア",
+        "Security",
         "個人開発",
-        "入門"
+        "Web",
+        "初心者",
+        "Node.js"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと",
+      "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
+      "stocks": 5,
+      "tags": [
+        "社内SE"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIの限界は頭脳ではなく、電気と冷却にあった【宇宙のデーターセンターって何？】",
+      "url": "https://qiita.com/sumomoo/items/8bbe719ed4de1a36def9",
+      "stocks": 10,
+      "tags": [
+        "AI",
+        "未経験エンジニア",
+        "インフラ",
+        "新人プログラマ応援",
+        "初心者"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIのアウトプットをそのまま出すだけの人にならないために",
+      "url": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453",
+      "stocks": 20,
+      "tags": [
+        "生成AI",
+        "AIエージェント",
+        "キャリア",
+        "ポエム",
+        "初心者"
+      ],
+      "posted": false
+    },
+    {
+      "title": "人手不足なのに働き控え？ 「年収の壁」をシステム設計から考える : システム設計視点の行動経済学 (9)",
+      "url": "https://qiita.com/maskot1977/items/700728d034ce4819aa37",
+      "stocks": 8,
+      "tags": [
+        "システム設計",
+        "行動経済学",
+        "マクロ経済学",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "posted": false
     }
   ]
 }
