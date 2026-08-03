@@ -18,7 +18,7 @@
         "Claude",
         "codex"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "個人開発でいちばん多い脆弱性「認可漏れ」を、コード付きで理解する",
