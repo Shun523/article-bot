@@ -1,85 +1,96 @@
 {
-  "week": "2026-W31",
+  "week": "2026-W32",
   "articles": [
     {
-      "title": "Claude Codeを使った設計・仕様検討の壁打ちで意識していること",
-      "url": "https://qiita.com/mc_torigoshi/items/85846a527098bf46b7cb",
+      "title": "新人エンジニアにとって大切なことは技術力だけではない話",
+      "url": "https://qiita.com/teppei19980914/items/d8c00eff5cbf870c606c",
+      "stocks": 9,
+      "tags": [
+        "エンジニア",
+        "新人エンジニア",
+        "学習",
+        "キャリア",
+        "お客様ファースト"
+      ],
+      "posted": true
+    },
+    {
+      "title": "ネットワークセキュリティの基礎を学習した話(ファイアウォール・IDS/IPS・プロキシ・VPNまで)",
+      "url": "https://qiita.com/Ikechom/items/58cd28b2a39487865506",
+      "stocks": 8,
+      "tags": [
+        "Network",
+        "Security",
+        "ファイアウォール",
+        "プロキシ",
+        "VPN"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ECSネイティブBlue/Greenで「切替後に旧環境を残して、確認できたら落とす」をやる — PAUSEフックの置き場所について",
+      "url": "https://qiita.com/Omizu-25/items/5157a01639c31d60ad7a",
+      "stocks": 2,
+      "tags": [
+        "AWS",
+        "ECS",
+        "CodeDeploy",
+        "BlueGreenDeployment",
+        "Jr.Champions"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIがコードを書く時代に、なぜWebエンジニアは必要なのか",
+      "url": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae",
       "stocks": 6,
       "tags": [
-        "ClaudeCode"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
-      "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
-      "stocks": 12,
-      "tags": [
-        "Claude",
-        "codex"
-      ],
-      "posted": true
-    },
-    {
-      "title": "個人開発でいちばん多い脆弱性「認可漏れ」を、コード付きで理解する",
-      "url": "https://qiita.com/sekyu-dev/items/9b060eeab552554aa301",
-      "stocks": 7,
-      "tags": [
-        "Security",
-        "個人開発",
-        "Web",
-        "初心者",
-        "Node.js"
-      ],
-      "posted": true
-    },
-    {
-      "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと",
-      "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
-      "stocks": 5,
-      "tags": [
-        "社内SE"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIの限界は頭脳ではなく、電気と冷却にあった【宇宙のデーターセンターって何？】",
-      "url": "https://qiita.com/sumomoo/items/8bbe719ed4de1a36def9",
-      "stocks": 10,
-      "tags": [
         "AI",
-        "未経験エンジニア",
-        "インフラ",
-        "新人プログラマ応援",
-        "初心者"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIのアウトプットをそのまま出すだけの人にならないために",
-      "url": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453",
-      "stocks": 20,
-      "tags": [
-        "生成AI",
         "AIエージェント",
-        "キャリア",
-        "ポエム",
-        "初心者"
+        "AI活用",
+        "エンジニア",
+        "AIエンジニア"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "人手不足なのに働き控え？ 「年収の壁」をシステム設計から考える : システム設計視点の行動経済学 (9)",
-      "url": "https://qiita.com/maskot1977/items/700728d034ce4819aa37",
-      "stocks": 8,
+      "title": "税と再分配は何のため？ ― 『正統性』から考える国家OSのリファクタリング : システム設計視点の行動経済学 (11)",
+      "url": "https://qiita.com/maskot1977/items/bece9b1780826fc9f527",
+      "stocks": 5,
       "tags": [
         "システム設計",
         "行動経済学",
-        "マクロ経済学",
         "ChatGPT",
-        "Gemini"
+        "Gemini",
+        "マクロ経済学"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "わかったようでわからないアロー関数の完全理解",
+      "url": "https://qiita.com/yuki_crossroad/items/dffb06c5e5cd1ef73463",
+      "stocks": 2,
+      "tags": [
+        "フロントエンド",
+        "JavaScript",
+        "TypeScript",
+        "Vue.js",
+        "Vue3"
+      ],
+      "posted": false
+    },
+    {
+      "title": "可逆プログラミング言語Janusと、量子計算の逆計算",
+      "url": "https://qiita.com/gyu-don/items/f02f1c55e18281c916a5",
+      "stocks": 2,
+      "tags": [
+        "量子コンピュータ",
+        "量子ゲート",
+        "可逆計算",
+        "言語処理系",
+        "janus"
+      ],
+      "posted": false
     }
   ]
 }
