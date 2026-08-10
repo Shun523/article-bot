@@ -25,7 +25,7 @@
         "プロキシ",
         "VPN"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "ECSネイティブBlue/Greenで「切替後に旧環境を残して、確認できたら落とす」をやる — PAUSEフックの置き場所について",
