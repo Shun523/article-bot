@@ -1,96 +1,96 @@
 {
-  "week": "2026-W32",
+  "week": "2026-W33",
   "articles": [
     {
-      "title": "新人エンジニアにとって大切なことは技術力だけではない話",
-      "url": "https://qiita.com/teppei19980914/items/d8c00eff5cbf870c606c",
-      "stocks": 9,
+      "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
+      "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
+      "stocks": 13,
       "tags": [
-        "エンジニア",
-        "新人エンジニア",
-        "学習",
-        "キャリア",
-        "お客様ファースト"
+        "個人開発",
+        "Security",
+        "ClaudeCode",
+        "Windows",
+        "PowerShell"
       ],
       "posted": true
     },
     {
-      "title": "ネットワークセキュリティの基礎を学習した話(ファイアウォール・IDS/IPS・プロキシ・VPNまで)",
-      "url": "https://qiita.com/Ikechom/items/58cd28b2a39487865506",
+      "title": "『Claude Code実践入門』を発売日に一気読みしたので感想をつらつらと",
+      "url": "https://qiita.com/tomada/items/0bfbaffce6fae70be17f",
+      "stocks": 16,
+      "tags": [
+        "ClaudeCode",
+        "Claude",
+        "生成AI",
+        "AIエージェント",
+        "書評"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
+      "url": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7",
       "stocks": 8,
       "tags": [
-        "Network",
-        "Security",
-        "ファイアウォール",
-        "プロキシ",
-        "VPN"
+        "WSL",
+        "ローカルLLM",
+        "LLM",
+        "Qwen",
+        "Qwen3.8"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "ECSネイティブBlue/Greenで「切替後に旧環境を残して、確認できたら落とす」をやる — PAUSEフックの置き場所について",
-      "url": "https://qiita.com/Omizu-25/items/5157a01639c31d60ad7a",
-      "stocks": 2,
-      "tags": [
-        "AWS",
-        "ECS",
-        "CodeDeploy",
-        "BlueGreenDeployment",
-        "Jr.Champions"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIがコードを書く時代に、なぜWebエンジニアは必要なのか",
-      "url": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae",
-      "stocks": 6,
+      "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
+      "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
+      "stocks": 10,
       "tags": [
         "AI",
-        "AIエージェント",
-        "AI活用",
-        "エンジニア",
-        "AIエンジニア"
+        "AWS",
+        "ClaudeCode",
+        "CloudFront",
+        "S3"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "税と再分配は何のため？ ― 『正統性』から考える国家OSのリファクタリング : システム設計視点の行動経済学 (11)",
-      "url": "https://qiita.com/maskot1977/items/bece9b1780826fc9f527",
-      "stocks": 5,
+      "title": "原本は1つ、ビューは毎回作り直す。AIをアシスタントにした軽量タスク運用",
+      "url": "https://qiita.com/gmo-co-kitaura/items/acb76b46b710348c60cd",
+      "stocks": 15,
       "tags": [
-        "システム設計",
-        "行動経済学",
-        "ChatGPT",
-        "Gemini",
-        "マクロ経済学"
+        "Claude",
+        "ClaudeDesktop",
+        "タスク管理",
+        "業務効率化",
+        "生成AI"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "わかったようでわからないアロー関数の完全理解",
-      "url": "https://qiita.com/yuki_crossroad/items/dffb06c5e5cd1ef73463",
-      "stocks": 2,
+      "title": "エラーレスポンス設計の現在地2026",
+      "url": "https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea",
+      "stocks": 17,
       "tags": [
-        "フロントエンド",
-        "JavaScript",
-        "TypeScript",
-        "Vue.js",
-        "Vue3"
+        "WebAPI",
+        "HTTP",
+        "API",
+        "ClaudeCode",
+        "設計"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "可逆プログラミング言語Janusと、量子計算の逆計算",
-      "url": "https://qiita.com/gyu-don/items/f02f1c55e18281c916a5",
-      "stocks": 2,
+      "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
+      "url": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
+      "stocks": 21,
       "tags": [
-        "量子コンピュータ",
-        "量子ゲート",
-        "可逆計算",
-        "言語処理系",
-        "janus"
+        "C#",
+        "dotnet",
+        "AI",
+        "Roslyn",
+        "SoftwareEngineering"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
