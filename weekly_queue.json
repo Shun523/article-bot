@@ -51,7 +51,7 @@
         "CloudFront",
         "S3"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "原本は1つ、ビューは毎回作り直す。AIをアシスタントにした軽量タスク運用",
