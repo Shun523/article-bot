@@ -1,96 +1,94 @@
 {
-  "week": "2026-W33",
+  "week": "2026-W34",
   "articles": [
     {
-      "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
-      "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
-      "stocks": 13,
-      "tags": [
-        "個人開発",
-        "Security",
-        "ClaudeCode",
-        "Windows",
-        "PowerShell"
-      ],
-      "posted": true
-    },
-    {
-      "title": "『Claude Code実践入門』を発売日に一気読みしたので感想をつらつらと",
-      "url": "https://qiita.com/tomada/items/0bfbaffce6fae70be17f",
-      "stocks": 16,
-      "tags": [
-        "ClaudeCode",
-        "Claude",
-        "生成AI",
-        "AIエージェント",
-        "書評"
-      ],
-      "posted": true
-    },
-    {
-      "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
-      "url": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7",
+      "title": "AI駆動で町内会ホームページを作ってみたら、想像以上に簡単だった",
+      "url": "https://qiita.com/sekity/items/3b8105c06fc3ecc4b3b8",
       "stocks": 8,
       "tags": [
-        "WSL",
-        "ローカルLLM",
-        "LLM",
-        "Qwen",
-        "Qwen3.8"
+        "AI駆動開発",
+        "ChatGPT",
+        "astro",
+        "cloudflare",
+        "GitHub"
       ],
       "posted": true
     },
     {
-      "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-      "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
-      "stocks": 10,
+      "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
+      "url": "https://qiita.com/tomada/items/42537e0b14b38797d218",
+      "stocks": 31,
       "tags": [
-        "AI",
-        "AWS",
+        "MCP",
+        "Context7",
         "ClaudeCode",
-        "CloudFront",
-        "S3"
+        "cursor",
+        "AI駆動開発"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "原本は1つ、ビューは毎回作り直す。AIをアシスタントにした軽量タスク運用",
-      "url": "https://qiita.com/gmo-co-kitaura/items/acb76b46b710348c60cd",
-      "stocks": 15,
+      "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
+      "url": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384",
+      "stocks": 29,
       "tags": [
-        "Claude",
-        "ClaudeDesktop",
-        "タスク管理",
-        "業務効率化",
-        "生成AI"
-      ],
-      "posted": true
-    },
-    {
-      "title": "エラーレスポンス設計の現在地2026",
-      "url": "https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea",
-      "stocks": 17,
-      "tags": [
-        "WebAPI",
-        "HTTP",
-        "API",
+        "QA",
+        "Playwright",
         "ClaudeCode",
-        "設計"
+        "AI",
+        "自動化"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
-      "url": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
-      "stocks": 21,
+      "title": "DuolingoとYouTubeに学ぶアプリの習慣化設計の違い",
+      "url": "https://qiita.com/wcow_81bd/items/da5f2c127b305b6b1ee6",
+      "stocks": 9,
       "tags": [
-        "C#",
-        "dotnet",
-        "AI",
-        "Roslyn",
-        "SoftwareEngineering"
+        "UIUX",
+        "アプリ開発",
+        "ユーザー体験",
+        "モバイルアプリ"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "わかったようでわからない非同期処理の完全理解①",
+      "url": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00",
+      "stocks": 12,
+      "tags": [
+        "フロントエンド",
+        "JavaScript",
+        "Vue.js",
+        "Vue3"
+      ],
+      "posted": false
+    },
+    {
+      "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
+      "url": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871",
+      "stocks": 25,
+      "tags": [
+        "新人プログラマ応援",
+        "新人エンジニア",
+        "初心者応援",
+        "初心者向け",
+        "初心者エンジニア"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
+      "url": "https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5",
+      "stocks": 27,
+      "tags": [
+        "ClaudeCode",
+        "AI",
+        "生成AI",
+        "AIエージェント",
+        "開発環境"
+      ],
+      "posted": false
     }
   ]
 }
