@@ -75,7 +75,7 @@
         "初心者向け",
         "初心者エンジニア"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
