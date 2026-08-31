@@ -1,94 +1,94 @@
 {
-  "week": "2026-W34",
+  "week": "2026-W35",
   "articles": [
     {
-      "title": "AI駆動で町内会ホームページを作ってみたら、想像以上に簡単だった",
-      "url": "https://qiita.com/sekity/items/3b8105c06fc3ecc4b3b8",
-      "stocks": 8,
+      "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
+      "url": "https://qiita.com/sumomoo/items/5726c8769b487e118571",
+      "stocks": 7,
       "tags": [
-        "AI駆動開発",
-        "ChatGPT",
-        "astro",
-        "cloudflare",
-        "GitHub"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
-      "url": "https://qiita.com/tomada/items/42537e0b14b38797d218",
-      "stocks": 31,
-      "tags": [
-        "MCP",
-        "Context7",
-        "ClaudeCode",
-        "cursor",
-        "AI駆動開発"
-      ],
-      "posted": true
-    },
-    {
-      "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
-      "url": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384",
-      "stocks": 29,
-      "tags": [
-        "QA",
-        "Playwright",
-        "ClaudeCode",
         "AI",
-        "自動化"
+        "AI活用",
+        "エンジニアのキャリア",
+        "エンジニアの心得",
+        "PhysicalAI"
       ],
       "posted": true
     },
     {
-      "title": "DuolingoとYouTubeに学ぶアプリの習慣化設計の違い",
-      "url": "https://qiita.com/wcow_81bd/items/da5f2c127b305b6b1ee6",
+      "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+      "url": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435",
+      "stocks": 35,
+      "tags": [
+        "AI",
+        "ClaudeCode",
+        "AIエージェント",
+        "Security",
+        "AgentSkills"
+      ],
+      "posted": false
+    },
+    {
+      "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+      "url": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7",
+      "stocks": 14,
+      "tags": [
+        "AI",
+        "ClaudeCode",
+        "生成AI",
+        "初心者",
+        "ハーネスエンジニアリング"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
+      "url": "https://qiita.com/_shin_/items/47bc69006f6467d79e91",
       "stocks": 9,
       "tags": [
-        "UIUX",
-        "アプリ開発",
-        "ユーザー体験",
-        "モバイルアプリ"
+        "ESP32",
+        "電子工作",
+        "回路設計",
+        "基板設計",
+        "USB"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "わかったようでわからない非同期処理の完全理解①",
-      "url": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00",
-      "stocks": 12,
+      "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
+      "url": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69",
+      "stocks": 15,
       "tags": [
-        "フロントエンド",
-        "JavaScript",
-        "Vue.js",
-        "Vue3"
-      ],
-      "posted": true
-    },
-    {
-      "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
-      "url": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871",
-      "stocks": 25,
-      "tags": [
-        "新人プログラマ応援",
-        "新人エンジニア",
-        "初心者応援",
-        "初心者向け",
-        "初心者エンジニア"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
-      "url": "https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5",
-      "stocks": 27,
-      "tags": [
-        "ClaudeCode",
         "AI",
+        "ClaudeCode",
+        "自然言語処理",
         "生成AI",
+        "Qiita"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Active Directoryを構築しよう",
+      "url": "https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea",
+      "stocks": 5,
+      "tags": [
+        "ActiveDirectory",
+        "homelab",
+        "自宅サーバー"
+      ],
+      "posted": false
+    },
+    {
+      "title": "環境変数でサブエージェントのモデルを固定できなくなった",
+      "url": "https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a",
+      "stocks": 15,
+      "tags": [
+        "AI",
+        "ClaudeCode",
         "AIエージェント",
+        "生成AI",
         "開発環境"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
