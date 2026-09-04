@@ -75,7 +75,7 @@
         "homelab",
         "自宅サーバー"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "環境変数でサブエージェントのモデルを固定できなくなった",
