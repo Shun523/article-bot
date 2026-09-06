@@ -1,85 +1,19 @@
 {
-  "week": "2026-W35",
+  "week": "2026-W36",
   "articles": [
     {
-      "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
-      "url": "https://qiita.com/sumomoo/items/5726c8769b487e118571",
-      "stocks": 7,
+      "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
+      "url": "https://qiita.com/takahash_3/items/0396070f5766efe984a8",
+      "stocks": 6,
       "tags": [
-        "AI",
-        "AI活用",
-        "エンジニアのキャリア",
-        "エンジニアの心得",
-        "PhysicalAI"
+        "AWS",
+        "BedrockAgentCore"
       ],
       "posted": true
     },
     {
-      "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
-      "url": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435",
-      "stocks": 35,
-      "tags": [
-        "AI",
-        "ClaudeCode",
-        "AIエージェント",
-        "Security",
-        "AgentSkills"
-      ],
-      "posted": true
-    },
-    {
-      "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
-      "url": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7",
-      "stocks": 14,
-      "tags": [
-        "AI",
-        "ClaudeCode",
-        "生成AI",
-        "初心者",
-        "ハーネスエンジニアリング"
-      ],
-      "posted": true
-    },
-    {
-      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
-      "url": "https://qiita.com/_shin_/items/47bc69006f6467d79e91",
-      "stocks": 9,
-      "tags": [
-        "ESP32",
-        "電子工作",
-        "回路設計",
-        "基板設計",
-        "USB"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
-      "url": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69",
-      "stocks": 15,
-      "tags": [
-        "AI",
-        "ClaudeCode",
-        "自然言語処理",
-        "生成AI",
-        "Qiita"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Active Directoryを構築しよう",
-      "url": "https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea",
-      "stocks": 5,
-      "tags": [
-        "ActiveDirectory",
-        "homelab",
-        "自宅サーバー"
-      ],
-      "posted": true
-    },
-    {
-      "title": "環境変数でサブエージェントのモデルを固定できなくなった",
-      "url": "https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a",
+      "title": "Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった",
+      "url": "https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4",
       "stocks": 15,
       "tags": [
         "AI",
@@ -88,7 +22,67 @@
         "生成AI",
         "開発環境"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "【歴史】Next.jsが覇権を握り、そして直面した試練の物語【動画解説】",
+      "url": "https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf",
+      "stocks": 8,
+      "tags": [
+        "Next.js"
+      ],
+      "posted": false
+    },
+    {
+      "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
+      "url": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
+      "stocks": 24,
+      "tags": [
+        "ClaudeCode",
+        "Claude",
+        "Anthropic",
+        "AI",
+        "LLM"
+      ],
+      "posted": false
+    },
+    {
+      "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
+      "url": "https://qiita.com/songchong/items/d1e1e908a1b76d6995b1",
+      "stocks": 14,
+      "tags": [
+        "API",
+        "初心者",
+        "OpenAPI",
+        "SaaS",
+        "業務効率化"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった",
+      "url": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc",
+      "stocks": 24,
+      "tags": [
+        "生成AI",
+        "システム設計",
+        "Database",
+        "n+1",
+        "パフォーマンス"
+      ],
+      "posted": false
+    },
+    {
+      "title": "IT面接で職務経歴書で見ているのは「すごい実績」だけではありません",
+      "url": "https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0",
+      "stocks": 6,
+      "tags": [
+        "未経験エンジニア",
+        "未経験",
+        "エンジニアのキャリア",
+        "エンジニア転職"
+      ],
+      "posted": false
     }
   ]
 }
