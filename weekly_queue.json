@@ -43,7 +43,7 @@
         "個人開発",
         "TypeScript"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件",
