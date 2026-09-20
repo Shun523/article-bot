@@ -1,85 +1,92 @@
 {
-  "week": "2026-W37",
+  "week": "2026-W38",
   "articles": [
     {
-      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
-      "url": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
-      "stocks": 20,
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
+      "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
+      "stocks": 10,
       "tags": [
-        "AWS",
-        "AI"
-      ],
-      "posted": true
-    },
-    {
-      "title": "terraform plan -minimal-refreshでplanを爆速にする",
-      "url": "https://qiita.com/minamijoyo/items/92c094b554d090b54a17",
-      "stocks": 14,
-      "tags": [
-        "Terraform"
-      ],
-      "posted": true
-    },
-    {
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 12",
-      "url": "https://qiita.com/maskot1977/items/f2970f2d91493f37e0b2",
-      "stocks": 5,
-      "tags": [
-        "Python",
-        "マクロ経済学",
-        "YouTube",
-        "ChatGPT",
-        "Gemini"
-      ],
-      "posted": true
-    },
-    {
-      "title": "クリーンアーキテクチャは個人開発でもやる価値があるか",
-      "url": "https://qiita.com/Ohmiya-Mizuki/items/f3fd704d0aba19e0bc8c",
-      "stocks": 6,
-      "tags": [
-        "CleanArchitecture",
-        "設計",
-        "個人開発",
-        "TypeScript"
-      ],
-      "posted": true
-    },
-    {
-      "title": "うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件",
-      "url": "https://qiita.com/kanryu/items/a031d4928ddb7caa0784",
-      "stocks": 15,
-      "tags": [
-        "WebAssembly",
-        "wasm",
-        "multiprocessing",
-        "Go",
-        "hike"
-      ],
-      "posted": true
-    },
-    {
-      "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)",
-      "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
-      "stocks": 48,
-      "tags": [
+        "生成AI",
         "Security",
-        "nginx",
-        "Apache",
-        "Linux",
-        "WordPress"
+        "LLM",
+        "rag",
+        "プロンプトインジェクション"
       ],
       "posted": true
     },
     {
-      "title": "勉強を「気合」ではなく「ログ」で管理する",
-      "url": "https://qiita.com/SHIBATATA/items/c40eaabbe4a283f706e0",
-      "stocks": 6,
+      "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
+      "url": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459",
+      "stocks": 18,
       "tags": [
         "AI",
-        "勉強法"
+        "AI活用",
+        "マインドセット"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
+      "url": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9",
+      "stocks": 51,
+      "tags": [
+        "AI",
+        "生成AI",
+        "ClaudeCode",
+        "Claude",
+        "Security"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない",
+      "url": "https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb",
+      "stocks": 56,
+      "tags": [
+        "AI",
+        "生成AI",
+        "ClaudeCode",
+        "AIエージェント",
+        "Claude"
+      ],
+      "posted": false
+    },
+    {
+      "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
+      "url": "https://qiita.com/yushibats/items/472325ce548da370ed5d",
+      "stocks": 19,
+      "tags": [
+        "Jev",
+        "TypeSafeAI",
+        "LLM",
+        "生成AI",
+        "AI"
+      ],
+      "posted": false
+    },
+    {
+      "title": "5分でJev入門（すぐ使う）",
+      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
+      "stocks": 55,
+      "tags": [
+        "Jev",
+        "入門",
+        "チュートリアル"
+      ],
+      "posted": false
+    },
+    {
+      "title": "なぜSMS認証は弱いと言われるのか",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "stocks": 14,
+      "tags": [
+        "Security",
+        "認証",
+        "TOTP",
+        "二段階認証",
+        "初心者"
+      ],
+      "posted": false
     }
   ]
 }
