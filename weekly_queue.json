@@ -36,7 +36,7 @@
         "Claude",
         "Security"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない",
