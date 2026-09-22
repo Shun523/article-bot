@@ -23,7 +23,7 @@
         "AI活用",
         "マインドセット"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
