@@ -1,34 +1,20 @@
 {
-  "week": "2026-W38",
+  "week": "2026-W39",
   "articles": [
     {
-      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
-      "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
-      "stocks": 10,
+      "title": "新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる",
+      "url": "https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7",
+      "stocks": 15,
       "tags": [
-        "生成AI",
-        "Security",
-        "LLM",
-        "rag",
-        "プロンプトインジェクション"
+        "copilot",
+        "なんでもCopilot"
       ],
       "posted": true
     },
     {
-      "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
-      "url": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459",
-      "stocks": 18,
-      "tags": [
-        "AI",
-        "AI活用",
-        "マインドセット"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
-      "url": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9",
-      "stocks": 51,
+      "title": "許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか",
+      "url": "https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca",
+      "stocks": 53,
       "tags": [
         "AI",
         "生成AI",
@@ -36,57 +22,71 @@
         "Claude",
         "Security"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない",
-      "url": "https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb",
-      "stocks": 56,
+      "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理",
+      "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
+      "stocks": 20,
+      "tags": [
+        "Microsoft",
+        "copilot",
+        "AI活用",
+        "AIエージェント"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている",
+      "url": "https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143",
+      "stocks": 55,
       "tags": [
         "AI",
         "生成AI",
         "ClaudeCode",
-        "AIエージェント",
-        "Claude"
+        "Claude",
+        "Security"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
-      "url": "https://qiita.com/yushibats/items/472325ce548da370ed5d",
-      "stocks": 19,
+      "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
+      "url": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174",
+      "stocks": 54,
       "tags": [
-        "Jev",
-        "TypeSafeAI",
-        "LLM",
-        "生成AI",
-        "AI"
+        "Docker",
+        "kubernetes",
+        "ArgoCD",
+        "CICD",
+        "個人開発"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "5分でJev入門（すぐ使う）",
-      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
-      "stocks": 55,
+      "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
+      "url": "https://qiita.com/jqit-yukiono/items/8675266928f574677d9e",
+      "stocks": 51,
       "tags": [
-        "Jev",
-        "入門",
-        "チュートリアル"
+        "Jenkins",
+        "CICD",
+        "GitHubCopilot",
+        "ClaudeCode",
+        "SonarQube"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "なぜSMS認証は弱いと言われるのか",
-      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
-      "stocks": 14,
+      "title": "AI感のないAWS構成図をAIエージェントに描かせたい！",
+      "url": "https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c",
+      "stocks": 37,
       "tags": [
-        "Security",
-        "認証",
-        "TOTP",
-        "二段階認証",
-        "初心者"
+        "AWS",
+        "ClaudeCode",
+        "drawio",
+        "MCP",
+        "構成図"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
