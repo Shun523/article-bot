@@ -47,7 +47,7 @@
         "Claude",
         "Security"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
