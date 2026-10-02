@@ -60,7 +60,7 @@
         "CICD",
         "個人開発"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
