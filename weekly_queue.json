@@ -1,92 +1,93 @@
 {
-  "week": "2026-W39",
+  "week": "2026-W40",
   "articles": [
     {
-      "title": "新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる",
-      "url": "https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7",
+      "title": "Jevで動く1,000人の街を作って、仮想住民にインタビューできるようにしてみた",
+      "url": "https://qiita.com/nogataka/items/db0cea4c9c93e078786c",
+      "stocks": 7,
+      "tags": [
+        "cloudflare",
+        "CloudflareWorkers",
+        "AI",
+        "LLM",
+        "pixijs"
+      ],
+      "posted": true
+    },
+    {
+      "title": "ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説",
+      "url": "https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e",
+      "stocks": 7,
+      "tags": [
+        "プロンプトエンジニアリング",
+        "生成AI",
+        "ChatGPT",
+        "LLM",
+        "プロンプト"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】",
+      "url": "https://qiita.com/nogataka/items/a2f89a94d243b1b715cb",
+      "stocks": 12,
+      "tags": [
+        "AI",
+        "LLM",
+        "AIエージェント",
+        "cloudflare",
+        "機械学習"
+      ],
+      "posted": false
+    },
+    {
+      "title": "LLMのJSON Schemaを厳しくしても業務検証を消せない理由",
+      "url": "https://qiita.com/TechStudioLab/items/0bbf128791023cc90893",
+      "stocks": 5,
+      "tags": [
+        "LLM",
+        "Python",
+        "OpenAI",
+        "jsonschema"
+      ],
+      "posted": false
+    },
+    {
+      "title": "Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）",
+      "url": "https://qiita.com/moritalous/items/8b663db633dde3c49d62",
+      "stocks": 11,
+      "tags": [
+        "ClaudeCode",
+        "Jev",
+        "AIゲートウェイ"
+      ],
+      "posted": false
+    },
+    {
+      "title": "アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？",
+      "url": "https://qiita.com/square1001/items/4714dd9e2ddb97c32057",
+      "stocks": 18,
+      "tags": [
+        "アルゴリズム",
+        "グラフ理論",
+        "四色問題",
+        "最適化",
+        "研究"
+      ],
+      "posted": false
+    },
+    {
+      "title": "日本企業「ハッキングされないでくれ」ランキング",
+      "url": "https://qiita.com/konaito/items/16a6d2c5da7d144efe95",
       "stocks": 15,
       "tags": [
-        "copilot",
-        "なんでもCopilot"
+        "Security",
+        "サイバーセキュリティ",
+        "個人情報",
+        "情報漏洩",
+        "プライバシー"
       ],
-      "posted": true
-    },
-    {
-      "title": "許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか",
-      "url": "https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca",
-      "stocks": 53,
-      "tags": [
-        "AI",
-        "生成AI",
-        "ClaudeCode",
-        "Claude",
-        "Security"
-      ],
-      "posted": true
-    },
-    {
-      "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理",
-      "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
-      "stocks": 20,
-      "tags": [
-        "Microsoft",
-        "copilot",
-        "AI活用",
-        "AIエージェント"
-      ],
-      "posted": true
-    },
-    {
-      "title": "Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている",
-      "url": "https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143",
-      "stocks": 55,
-      "tags": [
-        "AI",
-        "生成AI",
-        "ClaudeCode",
-        "Claude",
-        "Security"
-      ],
-      "posted": true
-    },
-    {
-      "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
-      "url": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174",
-      "stocks": 54,
-      "tags": [
-        "Docker",
-        "kubernetes",
-        "ArgoCD",
-        "CICD",
-        "個人開発"
-      ],
-      "posted": true
-    },
-    {
-      "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
-      "url": "https://qiita.com/jqit-yukiono/items/8675266928f574677d9e",
-      "stocks": 51,
-      "tags": [
-        "Jenkins",
-        "CICD",
-        "GitHubCopilot",
-        "ClaudeCode",
-        "SonarQube"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AI感のないAWS構成図をAIエージェントに描かせたい！",
-      "url": "https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c",
-      "stocks": 37,
-      "tags": [
-        "AWS",
-        "ClaudeCode",
-        "drawio",
-        "MCP",
-        "構成図"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
