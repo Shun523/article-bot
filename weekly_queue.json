@@ -38,7 +38,7 @@
         "cloudflare",
         "機械学習"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "LLMのJSON Schemaを厳しくしても業務検証を消せない理由",
