@@ -50,7 +50,7 @@
         "OpenAI",
         "jsonschema"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）",
