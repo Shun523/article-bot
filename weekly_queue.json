@@ -51,7 +51,7 @@
         "ClaudeCode",
         "AIエージェント"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "Canva で作っていた価格表をやめて、Googleスプレッドシート × S3 + CloudFront の商品カタログを作った",
