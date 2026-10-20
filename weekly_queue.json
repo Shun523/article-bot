@@ -24,7 +24,7 @@
         "password",
         "ハッシュ"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性",
