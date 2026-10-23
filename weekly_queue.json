@@ -63,7 +63,7 @@
         "Gemini",
         "マクロ経済学"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る",
