@@ -75,7 +75,7 @@
         "FastAPI",
         "pillow"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話",
