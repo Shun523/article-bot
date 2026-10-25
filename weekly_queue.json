@@ -1,47 +1,86 @@
 {
-  "week": "2026-W42",
+  "week": "2026-W43",
   "articles": [
     {
-      "title": "非正規37%の経済設計バグ ― 労働市場の二重構造をリファクタリングする : システム設計視点の行動経済学 (42)",
-      "url": "https://qiita.com/maskot1977/items/9467428563658ebdf404",
+      "title": "【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた",
+      "url": "https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed",
+      "stocks": 25,
+      "tags": [
+        "VSCode",
+        "GitHubCopilot",
+        "AIエージェント",
+        "canvas",
+        "GitHub"
+      ],
+      "posted": true
+    },
+    {
+      "title": "日本と同じ条件の国は何をしたか ― 財政政策の国際比較実証研究 : システム設計視点の行動経済学 (48)",
+      "url": "https://qiita.com/maskot1977/items/faa29f9bdce4dab79040",
       "stocks": 5,
       "tags": [
         "システム設計",
         "行動経済学",
-        "マクロ経済学",
+        "ChatGPT",
         "Gemini",
         "ClaudeCode"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "エンジニアに情報漏えいは防げないのか？ ハッシュ化のコスト設計で「盗まれたあと」は変えられる",
-      "url": "https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d",
-      "stocks": 5,
+      "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
+      "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
+      "stocks": 19,
       "tags": [
-        "初心者",
+        "証明書",
+        "暗号技術",
+        "HTTPS",
+        "eMudhra"
+      ],
+      "posted": false
+    },
+    {
+      "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
+      "url": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493",
+      "stocks": 9,
+      "tags": [
+        "AI",
+        "AI駆動開発",
+        "AIエージェント",
+        "VibeCoding",
+        "LLM"
+      ],
+      "posted": false
+    },
+    {
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+      "url": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed",
+      "stocks": 10,
+      "tags": [
+        "PHP",
         "Security",
-        "password",
-        "ハッシュ"
+        "nftables",
+        "iptables",
+        "WordPress"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性",
-      "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
-      "stocks": 27,
+      "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
+      "url": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0",
+      "stocks": 21,
       "tags": [
-        "PwnEscape",
-        "CVE-2026-99999",
-        "AWS",
-        "さくらのクラウド",
-        "AI"
+        "JavaScript",
+        "ゲーム制作",
+        "ゲームエンジン",
+        "Pyxel",
+        "Playload"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 30",
-      "url": "https://qiita.com/maskot1977/items/4138e1d04b2c2865d592",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 35",
+      "url": "https://qiita.com/maskot1977/items/6db42783901df1982d5d",
       "stocks": 5,
       "tags": [
         "Python",
@@ -50,45 +89,7 @@
         "Gemini",
         "YouTube"
       ],
-      "posted": true
-    },
-    {
-      "title": "老後の安全網が壊れていく ― 医療・介護と財源幻想 : システム設計視点の行動経済学 (41)",
-      "url": "https://qiita.com/maskot1977/items/611ba93e0feedb40dc43",
-      "stocks": 6,
-      "tags": [
-        "システム設計",
-        "行動経済学",
-        "ClaudeCode",
-        "Gemini",
-        "マクロ経済学"
-      ],
-      "posted": true
-    },
-    {
-      "title": "画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る",
-      "url": "https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3",
-      "stocks": 11,
-      "tags": [
-        "Security",
-        "API",
-        "FastAPI",
-        "pillow"
-      ],
-      "posted": true
-    },
-    {
-      "title": "伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話",
-      "url": "https://qiita.com/Eitaro_dotlog/items/c1e2f6d696ea88854186",
-      "stocks": 11,
-      "tags": [
-        "動画作成",
-        "SNSマーケティング",
-        "Instagram",
-        "pdca",
-        "リール"
-      ],
-      "posted": true
+      "posted": false
     }
   ]
 }
