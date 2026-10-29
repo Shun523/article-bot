@@ -50,7 +50,7 @@
         "VibeCoding",
         "LLM"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
