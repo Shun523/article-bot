@@ -25,7 +25,7 @@
         "AIエージェント",
         "AIではなく人間が書いてます"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
