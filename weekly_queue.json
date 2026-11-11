@@ -38,7 +38,7 @@
         "Gemini",
         "YouTube"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した",
