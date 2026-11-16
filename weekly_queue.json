@@ -1,96 +1,92 @@
 {
-  "week": "2026-W45",
+  "week": "2026-W46",
   "articles": [
     {
-      "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
-      "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e",
-      "stocks": 17,
-      "tags": [
-        "Python",
-        "Pyxel",
-        "ゲーム制作",
-        "3D",
-        "ゲームエンジン"
-      ],
-      "posted": true
-    },
-    {
-      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
-      "url": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047",
-      "stocks": 12,
-      "tags": [
-        "ポエム",
-        "Microsoft",
-        "AIエージェント",
-        "GitHubCopilot",
-        "copilot"
-      ],
-      "posted": true
-    },
-    {
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全40回総復習",
-      "url": "https://qiita.com/maskot1977/items/1580f010f2a43225c0f7",
-      "stocks": 7,
-      "tags": [
-        "Python",
-        "マクロ経済学",
-        "ChatGPT",
-        "Gemini",
-        "YouTube"
-      ],
-      "posted": true
-    },
-    {
-      "title": "リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した",
-      "url": "https://qiita.com/shahin0809/items/a1bd931855f392806ee6",
-      "stocks": 8,
-      "tags": [
-        "VSCode",
-        "GitHubCopilot",
-        "AIエージェント",
-        "SSH",
-        "リモート開発"
-      ],
-      "posted": true
-    },
-    {
-      "title": "機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)",
-      "url": "https://qiita.com/maskot1977/items/8873b86cc612cbe35d86",
+      "title": "「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62)",
+      "url": "https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7",
       "stocks": 5,
       "tags": [
         "システム設計",
         "行動経済学",
         "ChatGPT",
-        "Gemini",
-        "ClaudeCode"
+        "ClaudeCode",
+        "Gemini"
       ],
       "posted": true
     },
     {
-      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
-      "url": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3",
-      "stocks": 17,
+      "title": "【2026年版】VMware Fusion Pro を無償ダウンロードする手順（Broadcom Support Portal）",
+      "url": "https://qiita.com/sanjushi003/items/55be64ff81173b9e6295",
+      "stocks": 3,
       "tags": [
-        "Security",
-        "AI",
-        "生成AI",
-        "脆弱性",
-        "MCP"
+        "vmware",
+        "VMwareFusion",
+        "Broadcom",
+        "Mac",
+        "homelab"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 41",
-      "url": "https://qiita.com/maskot1977/items/5399ad17d61a16f332a3",
-      "stocks": 5,
+      "title": "日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした",
+      "url": "https://qiita.com/songchong/items/fa50cc82e49b24925fe3",
+      "stocks": 14,
+      "tags": [
+        "AI",
+        "Chrome",
+        "Windows",
+        "Security",
+        "脆弱性"
+      ],
+      "posted": false
+    },
+    {
+      "title": "ちょっと見ない間にClaude APIが進化してた！",
+      "url": "https://qiita.com/moritalous/items/9e7c02b749037238b2bc",
+      "stocks": 7,
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "ClaudeAPI"
+      ],
+      "posted": false
+    },
+    {
+      "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
+      "url": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5",
+      "stocks": 9,
+      "tags": [
+        "AI",
+        "Security",
+        "設計"
+      ],
+      "posted": false
+    },
+    {
+      "title": "黒船来襲！Claude Sheets の衝撃――会話だけでシートが作れる時代になった話",
+      "url": "https://qiita.com/shu15511551/items/add57405722c05134561",
+      "stocks": 3,
       "tags": [
         "Python",
-        "マクロ経済学",
-        "Gemini",
-        "ChatGPT",
-        "YouTube"
+        "Excel",
+        "AI",
+        "ClaudeCode",
+        "MCP"
       ],
-      "posted": true
+      "posted": false
+    },
+    {
+      "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
+      "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
+      "stocks": 8,
+      "tags": [
+        "AWS",
+        "ゼロトラスト",
+        "IAMRolesAnyWhere",
+        "VerifiedAccess",
+        "SecurityHubCSPM"
+      ],
+      "posted": false
     }
   ]
 }
