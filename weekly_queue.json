@@ -73,7 +73,7 @@
         "ClaudeCode",
         "MCP"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
