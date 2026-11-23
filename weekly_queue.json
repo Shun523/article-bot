@@ -1,92 +1,93 @@
 {
-  "week": "2026-W46",
+  "week": "2026-W47",
   "articles": [
     {
-      "title": "「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62)",
-      "url": "https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7",
+      "title": "LLMを呼ぶ、その先へ。12のGitHub教材で学ぶAIエンジニアリングのロードマップ",
+      "url": "https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a",
       "stocks": 5,
+      "tags": [
+        "AI",
+        "LLM",
+        "rag",
+        "AIエージェント",
+        "システム設計"
+      ],
+      "posted": true
+    },
+    {
+      "title": "Jevって高速らしい。じゃあ、一文字ずつ文章を書かせてもLLMより速いのけ？",
+      "url": "https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8",
+      "stocks": 5,
+      "tags": [
+        "生成AI",
+        "LLM",
+        "データ分析",
+        "Jev",
+        "Python"
+      ],
+      "posted": false
+    },
+    {
+      "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
+      "url": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c",
+      "stocks": 11,
+      "tags": [
+        "AI",
+        "ClaudeCode",
+        "技術ブログ",
+        "文章術",
+        "生成AI"
+      ],
+      "posted": false
+    },
+    {
+      "title": "耳で聞く！ システム設計 視点の 行動経済学 10",
+      "url": "https://qiita.com/maskot1977/items/586eaa16cd4247d56f6f",
+      "stocks": 6,
       "tags": [
         "システム設計",
         "行動経済学",
         "ChatGPT",
-        "ClaudeCode",
-        "Gemini"
+        "Gemini",
+        "YouTube"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "【2026年版】VMware Fusion Pro を無償ダウンロードする手順（Broadcom Support Portal）",
-      "url": "https://qiita.com/sanjushi003/items/55be64ff81173b9e6295",
-      "stocks": 3,
+      "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する",
+      "url": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df",
+      "stocks": 11,
       "tags": [
-        "vmware",
-        "VMwareFusion",
-        "Broadcom",
-        "Mac",
-        "homelab"
-      ],
-      "posted": true
-    },
-    {
-      "title": "日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした",
-      "url": "https://qiita.com/songchong/items/fa50cc82e49b24925fe3",
-      "stocks": 14,
-      "tags": [
-        "AI",
-        "Chrome",
-        "Windows",
         "Security",
-        "脆弱性"
+        "脆弱性",
+        "CVSS",
+        "cve"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "ちょっと見ない間にClaude APIが進化してた！",
-      "url": "https://qiita.com/moritalous/items/9e7c02b749037238b2bc",
-      "stocks": 7,
-      "tags": [
-        "Claude",
-        "Anthropic",
-        "ClaudeAPI"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
-      "url": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5",
+      "title": "情報漏えいを公表しないリスクの要点整理",
+      "url": "https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2",
       "stocks": 9,
       "tags": [
-        "AI",
         "Security",
-        "設計"
+        "ランサムウェア",
+        "情報漏えい"
       ],
-      "posted": true
+      "posted": false
     },
     {
-      "title": "黒船来襲！Claude Sheets の衝撃――会話だけでシートが作れる時代になった話",
-      "url": "https://qiita.com/shu15511551/items/add57405722c05134561",
-      "stocks": 3,
-      "tags": [
-        "Python",
-        "Excel",
-        "AI",
-        "ClaudeCode",
-        "MCP"
-      ],
-      "posted": true
-    },
-    {
-      "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
-      "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
-      "stocks": 8,
+      "title": "【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説",
+      "url": "https://qiita.com/minorun365/items/bd6091f2599a0f37326b",
+      "stocks": 6,
       "tags": [
         "AWS",
-        "ゼロトラスト",
-        "IAMRolesAnyWhere",
-        "VerifiedAccess",
-        "SecurityHubCSPM"
+        "cognito",
+        "AgentCore",
+        "MCP",
+        "AI"
       ],
-      "posted": true
+      "posted": false
     }
   ]
 }
