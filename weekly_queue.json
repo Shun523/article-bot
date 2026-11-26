@@ -51,7 +51,7 @@
         "Gemini",
         "YouTube"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する",
