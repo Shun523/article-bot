@@ -63,7 +63,7 @@
         "CVSS",
         "cve"
       ],
-      "posted": false
+      "posted": true
     },
     {
       "title": "情報漏えいを公表しないリスクの要点整理",
